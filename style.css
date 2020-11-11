@@ -1,0 +1,244 @@
+/* Tela 1 */
+.body {
+    position: absolute;
+    width: 1300;
+    background: #f8dece;
+    margin: 0%;
+    
+}
+
+    
+
+.cabeçalho {
+    padding: 0px;
+}
+.cabeçalho{
+    position: absolute;
+    width: 100%;
+    height: 983px;
+    left: 0px;
+    top: 0px;
+
+    background: url(cabeçalho.png);
+}
+.tinta1 {
+    position: absolute;
+    width: 883px;
+    height: 848px;
+    left: -238px;
+    top: 817px;
+
+    background: url(tinta1.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.tinta2{
+    position: absolute;
+    width: 597px;
+    height: 592px;
+    left: 665px;
+    top: 1400px;
+
+    background: url(tinta2.png);
+
+    
+    
+}
+.Eu {
+    
+    position: absolute;
+    width: 300px;
+    height: 320px;
+    left: 98px;
+    top: 1420px;
+
+    background: url(Eu.png);
+}
+.logo2 {
+    padding: 5px;
+}
+
+.logo2 {
+    position: absolute;
+    width: 384px;
+    height: 566px;
+    left: 690px;
+    top: 451px;
+    max-width: 400px;
+}
+
+.logo {
+    padding: 50px 5px;
+}
+
+.logo {
+    position: absolute;
+    width: 166px;
+    height: 77px;
+    left: 98px;
+    top: 20px;
+}
+
+.menu {
+    background: #504DCE;
+    width: 100%;
+}
+.menu ul{
+    text-align: right;
+    width: 160px;
+}
+#Home{
+    position: absolute;
+    width: 66px;
+    height: 28px;
+    left: 500px;
+    top: 100px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+/* identical to box height */
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+#Sobre{
+    position: absolute;
+    width: 64px;
+    height: 28px;
+    left: 640px;
+    top: 100px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+/* identical to box height */
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+#Serviços{
+    position: absolute;
+    width: 90px;
+    height: 28px;
+    left: 780px;
+    top: 100px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+/* identical to box height */
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.botaoPort{
+    position: absolute;
+    width: 203px;
+    height: 39px;
+    left: 98px;
+    top: 606px;
+}
+.botaoCont{
+    
+    position: absolute;
+    width: 203px;
+    height: 39px;
+    left: 940px;
+    top: 95px;
+}
+#tapresent{
+    position: absolute;
+    width: 766px;
+    height: 90px;
+    left: 98px;
+    top: 271px;
+
+    font-family: Panton Caps;
+    font-style: normal;
+    font-weight: 290;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: left;
+    color: #d4cccc;
+
+
+}
+#tapresent2{
+    position: absolute;
+    width: 481px;
+    height: 164px;
+    left: 98px;
+    top: 362px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: left;
+    color: #FFFFFF;
+
+
+}
+#testoPerfil1{
+    position: absolute;
+    width: 574px;
+    height: 112px;
+    left: 494px;
+    top: 1334px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.6);
+
+
+}
+#testoPerfil2{
+    position: absolute;
+    width: 658px;
+    height: 329px;
+    left: 494px;
+    top: 1502px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: justify;
+    color: rgba(0, 0, 0, 0.6);
+}
+#testoPerfil3{
+    position: absolute;
+    width: 1000px;
+    height: 202px;
+    left: 150px;
+    right: 100;
+    top: 1917px;
+
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 41px;
+    text-align: center;
+
+    color: #ff8a1d;
+
+
+}

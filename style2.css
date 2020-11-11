@@ -1,0 +1,33 @@
+/* Tela 2 */
+.tela2 {
+    padding: 0px;
+}
+.tela2{
+    position: absolute;
+    width: 100%;
+    height: 1140px;
+    left: 0px;
+    
+    top: 2331px;
+
+    background: #CECEF2;
+}
+.tinta3{
+    position: absolute;
+    width: 500px;
+    height: 773px;
+    left: 76px;
+    top: 2680px;
+
+    
+
+}
+.tinta4{
+    position: absolute;
+    width: 432px;
+    height: 520px;
+    left: 829px;
+    top: 2331px;
+    right: 5px;
+    background: url(tinta22.png);
+}
